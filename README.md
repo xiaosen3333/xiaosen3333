@@ -16,6 +16,6 @@
 
 `Swift` `Python / FastAPI` `TypeScript / React` `MySQL` `Redis` `Docker / Traefik / GitHub Actions` `微信 / 支付宝小程序`
 
-### 📮 开放远程工作机会（全职 / 兼职 / 实习）
+### 📮 最近在找远程的开发 / 产品工作（全职、兼职、实习都可以）
 
 完整经历与代表项目：**[xiaosen3333-resume.vercel.app](https://xiaosen3333-resume.vercel.app)**
