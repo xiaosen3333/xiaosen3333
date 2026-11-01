@@ -9,7 +9,7 @@
 
 ### 🧠 AI 系统与工程
 
-- **Memory 长期记忆系统**（心光 App）：FastAPI + 向量检索 + Redis，支撑百万级向量数据、日均 5000+ 请求；从方案设计、技术选型到生产部署与运维整条链路 → 本仓库为生产系统的**抽象版，不含任何业务数据与隐私** → [LifelightMemory-Lab](https://github.com/xiaosen3333/LifelightMemory-Lab)
+- **Memory 长期记忆系统**（心光 App）：FastAPI + 向量检索 + Redis，支撑百万级向量数据、日均 5000+ 请求；从方案设计、技术选型到生产部署与运维整条链路 → 本仓库为生产系统的**抽象版：不含任何业务数据、用户隐私，也不包含保密协议范围内的任何技术与知识产权信息** → [LifelightMemory-Lab](https://github.com/xiaosen3333/LifelightMemory-Lab)
 - 其他开源项目：皮影虚实结合交互叙事（React）、ComfyUI 个性化步数年报生成工作流等，见下方仓库列表
 
 ### 🛠 技术栈
